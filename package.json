@@ -1,8 +1,8 @@
 {
-  "name": "jodoinc",
+  "name": "threedulphins",
   "version": "1.0.0",
-  "description": "jodoinc 官网",
-  "author": "Willie Chen",
+  "description": "threedulphins",
+  "author": "Chen",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon app/index.js",
